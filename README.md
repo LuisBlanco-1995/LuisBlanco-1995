@@ -6,6 +6,7 @@
 
 ### Acerca de mi
 - 🔭 Actualmente estoy aprendiendo
+    - 🤖 IA
     - 🤖 N8N 
     - ☁️ Cloud
     - 🐋 Docker
