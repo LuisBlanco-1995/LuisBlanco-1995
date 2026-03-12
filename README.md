@@ -1,14 +1,10 @@
 <br clear="both">
-
 <h1 align="Center">Hola, Soy Luis👋</h1>
-
 <!--BANNER INICIO#-->
-
 ![image alt](https://github.com/LuisBlanco-1995/LuisBlanco-1995/blob/da05810cbb23677395afd6711fb39e4bca8853ae/Banner%20Github.png)
-
 <!--BANNER FIN#-->
 
-###
+Acerca de mi
 
 <p align="left">📚 Actualmente estoy aprendiendo N8N y Cloud<br>🎯 Apasionado de la tecnología <br>🎲</p>
 
