@@ -1,7 +1,9 @@
 <br clear="both">
 <h1 align="Center">Hola, Soy Luis👋</h1>
 <!--BANNER INICIO#-->
-![image alt] (https://github.com/LuisBlanco-1995/LuisBlanco-1995/blob/079a02dfaa27a2033f78bfb86d9e56abc459413d/Banner%20Github.png)
+
+![image alt](https://github.com/LuisBlanco-1995/LuisBlanco-1995/blob/079a02dfaa27a2033f78bfb86d9e56abc459413d/Banner%20Github.png)
+
 <!--BANNER FIN#-->
 
 Acerca de mi
