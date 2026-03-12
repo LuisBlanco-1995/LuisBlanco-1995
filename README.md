@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  />
-  <img src=""  />
-  <img src=""  />
-  <img src=""  />
 </div>
 
 <h4> Base de Datos </h4>
@@ -33,7 +30,22 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"  />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"  />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  />
-  <img src=""  />
+</div>
+
+<h4> Diseño </h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"  />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"  />
+</div>
+
+<h4> Sistemas </h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"  />
 </div>
 
 <!--HABILIDADES REDES-->
@@ -46,24 +58,4 @@
   <img src=""  />
 </div>
 <!--HABILIDADES REDES FIN-->
-
-<h4> Diseño </h4>
-<div align="left">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"  />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"  />
-  <img src=""  />
-</div>
-
-<!--HABILIDADES EXTRAS-->
-<!-- <h4> Lenguajes </h4>
-<div align="left">
-  <img src=""  />
-  <img src=""  />
-  <img src=""  />
-  <img src=""  />
-  <img src=""  />
-</div>
-<!--HABILIDADES EXTRAS FIN-->
 ###
